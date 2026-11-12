@@ -1,4 +1,4 @@
-const CACHE_NAME = 'skybound-v2';
+const CACHE_NAME = 'skybound-v3';
 const FILES_TO_CACHE = [
   './',
   './index.html',
