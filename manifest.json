@@ -1,0 +1,17 @@
+{
+  "id": "/skybound-game-new2/",
+  "name": "SKYBOUND",
+  "short_name": "SKYBOUND",
+  "description": "Прыгай выше облаков — мобильная игра SKYBOUND.",
+  "lang": "ru",
+  "start_url": "/skybound-game-new2/",
+  "scope": "/skybound-game-new2/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#879198",
+  "theme_color": "#879198",
+  "categories": [
+    "games",
+    "entertainment"
+  ]
+}
